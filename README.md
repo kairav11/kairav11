@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NBA games prediction**
 
-- 🌱 I’m currently learning **Tableau, Data analytics, SQL**
+- 🌱 I’m currently learning **PowerBI, Data analytics, SQL**
 
 - 📫 How to reach me **kairavrsanghvi2@gmail.com**
 
