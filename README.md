@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kairav Roshan Sanghvi</h1>
 <h3 align="center">A passionate Data analyst based in Berlin, Germany</h3>
 
-- 🔭 I’m currently working on **NBA games prediction**
+- 🔭 I’m currently working on **Last mile delivery analysis**
 
-- 🌱 I’m currently learning **PowerBI, Data analytics, SQL**
+- 🌱 I’m currently learning and improving my skills in **PowerBI, Data analytics, SQL**
 
 - 📫 How to reach me **kairavrsanghvi2@gmail.com**
 
