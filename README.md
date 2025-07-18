@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Last mile delivery analysis**
 
-- 🌱 I’m currently learning and improving my skills in **PowerBI, Data analytics, SQL**
+- 🌱 I’m currently learning and improving my skills in **LLM's, PowerBI, SQL**
 
 - 📫 How to reach me **kairavrsanghvi2@gmail.com**
 
