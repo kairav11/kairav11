@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kairav Roshan Sanghvi</h1>
-<h3 align="center">A passionate Data analyst based in Berlin, Germany</h3>
+<h3 align="center">A passionate AI Engineer/Data Enthusiast based in Berlin, Germany</h3>
 
-- 🔭 I’m currently working on **Last mile delivery analysis**
+- 🔭 I’m currently working on **Smart Study-Buddy Matching Using AI**
 
 - 🌱 I’m currently learning and improving my skills in **LLM's, PowerBI, SQL**
 
