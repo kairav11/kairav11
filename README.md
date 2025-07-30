@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kairav Roshan Sanghvi</h1>
-<h3 align="center">A passionate AI Engineer/Data Enthusiast based in Berlin, Germany</h3>
+<h3 align="left">A passionate AI Engineer/Data Enthusiast based in Berlin, Germany</h3>
+I’m a data-driven problem solver with hands-on experience in Python, SQL, AI and machine learning.  
+I’m currently studying and building real-world projects in:
 
-- 🔭 I’m currently working on **Smart Study-Buddy Matching Using AI**
+- 📊 Data Analysis & Visualization
+- 🤖 Applied Machine Learning
+- 🧠 LLMs & Fine-Tuning
+- 🛠 Building AI Agents for matchmaking & personalization
 
 - 🌱 I’m currently learning and improving my skills in **LLM's, PowerBI, SQL**
-
 - 📫 How to reach me **kairavrsanghvi2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
