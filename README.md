@@ -93,8 +93,6 @@ Key highlights:
 
 ## Let’s Connect
 
-If you’re interested in data, product analytics, or automation driven growth, feel free to reach out.
 
 📧 [Email](mailto:kairavrsanghvi@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/kairav-sanghvi/)  
-💻 [GitHub](https://github.com/kairav11)
