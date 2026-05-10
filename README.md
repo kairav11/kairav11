@@ -9,22 +9,7 @@ I build production-grade data infrastructure that turns messy telemetry into act
 - **Analytics Engineering:** Implementing Medallion Architectures and dimensional modeling (Star Schema).
 - **DataOps:** Automating CI/CD pipelines for data quality with GitHub Actions and n8n.
 - **Product Intelligence:** Building self-service BI layers that enable teams to track growth and retention without SQL knowledge.
-
----
-
-## 🚀 Featured Projects
-
-### 💰 [Wealth-Flow Lakehouse](https://github.com/kairav11/PersonalFinanceTracker)
-**Modern Data Stack | dbt, Databricks, Delta Lake, GitHub Actions**
-* Built a full Medallion Architecture (Bronze/Silver/Gold) to audit personal finances.
-* Automated multi-currency conversion (EUR) and data quality testing using dbt.
-* **Key Outcome:** Reduced manual auditing time by 95% with a live Streamlit dashboard.
-
-### 🚚 [ETA Prediction & Logistics Optimization](https://github.com/kairav11/Master_thesis)
-**Data Engineering & ML | Python, SQL, CatBoost**
-* Engineered a robust pipeline to process 50k+ noisy GPS events for high-accuracy delivery forecasting.
-* Compared ensemble models vs. deep learning for sparse spatio-temporal data.
-
+- 
 ---
 
 ## 🧰 Tech Stack
