@@ -9,7 +9,7 @@ I build production-grade data infrastructure that turns messy telemetry into act
 - **Analytics Engineering:** Implementing Medallion Architectures and dimensional modeling (Star Schema).
 - **DataOps:** Automating CI/CD pipelines for data quality with GitHub Actions and n8n.
 - **Product Intelligence:** Building self-service BI layers that enable teams to track growth and retention without SQL knowledge.
-- 
+
 ---
 
 ## 🧰 Tech Stack
